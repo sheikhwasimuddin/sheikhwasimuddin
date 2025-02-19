@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Rstudio/Rstudio-original.svg" height="40" alt="R logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitbash/gitbash-original.svg" height="40" alt="gitbash logo" />
   
 </div>
 
