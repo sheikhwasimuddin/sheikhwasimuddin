@@ -1,25 +1,16 @@
 
-
 <h1 align="left">Welcome to Sheikh Wasimuddin's GitHub Profile!</h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7167A&width=700&lines=Hello!+My+name+is+Sheikh+Wasimuddin;I+love+creating+websites;Exploring+data+structures+and+algorithms;)](https://git.io/typing-svg)
-
 ---
-
 <h2 align="left">About Me</h2>
-
 <p align="left">
   📚 I’m currently deep-diving into Data Structures & Algorithms in Java.<br>
   🎓 Pursuing B.Tech in Computer Science Engineering (IoT).<br>
   🔭 Passionate about Web Development and problem-solving.
 </p>
-
 ---
-
 <h2 align="left">♠ Skills & Technologies 🛠️</h2>
-
 <h3 align="left">♠ Programming Languages :</h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
@@ -29,11 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
-
 ---
-
 <h3 align="left">♠ Tools & Technologies :</h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -54,16 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-  
-  
 </div>
-
 ---
-
 <h2 align="left">Connect with Me 🤝</h2>
-
 <p align="left">Feel free to reach out to me through the following channels:</p>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/sheikhwasimuddin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
@@ -81,7 +63,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo" />
   </a>
 </div>
-
 <p align="left">Let's innovate and create something awesome together! ✨</p>
-
 ---
