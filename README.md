@@ -1,5 +1,6 @@
 
 <h1 align="left">Welcome to Sheikh Wasimuddin's GitHub Profile!</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7167A&width=700&lines=Hello!+My+name+is+Sheikh+Wasimuddin;I+love+creating+websites;Exploring+data+structures+and+algorithms;)](https://git.io/typing-svg)
 ---
 <h2 align="left">About Me</h2>
