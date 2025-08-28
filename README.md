@@ -9,7 +9,7 @@
   🎓 Pursuing B.Tech in Computer Science Engineering (IoT).<br>
   🔭 Passionate about Web Development and problem-solving.
 </p>
----
+
 <h2 align="left">♠ Skills & Technologies 🛠️</h2>
 <h3 align="left">♠ Programming Languages :</h3>
 <div align="left">
@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
----
+
 <h3 align="left">♠ Tools & Technologies :</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
 </div>
----
+
 <h2 align="left">Connect with Me 🤝</h2>
 <p align="left">Feel free to reach out to me through the following channels:</p>
 <div align="left">
@@ -65,4 +65,4 @@
   </a>
 </div>
 <p align="left">Let's innovate and create something awesome together! ✨</p>
----
+
