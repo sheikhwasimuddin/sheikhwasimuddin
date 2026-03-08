@@ -73,9 +73,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhwasimuddin&theme=tokyonight&hide_border=true&stroke=F7167A&ring=F7167A&fire=F7167A" />
 
-### 📈 Language Breakdown & Contribution Graph
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhwasimuddin&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhwasimuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
 
 ### 🌐 Activity Graph (Area Chart)
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhwasimuddin&theme=tokyo-night&hide_border=true&area=true&area_color=F7167A&color=F7167A&line=F7167A&point=ffffff" />
