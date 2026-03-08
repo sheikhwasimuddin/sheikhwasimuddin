@@ -86,7 +86,7 @@
 
 ### 📦 Commit Stats (Last Year)
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheikhwasimuddin&theme=tokyonight" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+>
 
 </div>
 <p align="left">Let's innovate and create something awesome together! ✨</p>
