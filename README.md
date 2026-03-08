@@ -71,14 +71,12 @@
 
 ### 🔥 Core Stats
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhwasimuddin&theme=tokyonight&hide_border=true&stroke=F7167A&ring=F7167A&fire=F7167A" />
+
 
 
 ### 🌐 Activity Graph (Area Chart)
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhwasimuddin&theme=tokyo-night&hide_border=true&area=true&area_color=F7167A&color=F7167A&line=F7167A&point=ffffff" />
 
-### 📅 Contribution Heatmap
-<img width="98%" src="https://ghchart.rshah.org/F7167A/sheikhwasimuddin" alt="GitHub Contribution Heatmap" />
 
 ### 🧮 Profile Summary Card
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhwasimuddin&theme=tokyonight" />
