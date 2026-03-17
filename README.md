@@ -67,25 +67,42 @@
 </div>
 
 <div align="center">
+<div align="center">
 
-### 🔥 Core Stats
+## 🔥 Core Stats
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhwasimuddin&theme=tokyonight&hide_border=true&stroke=F7167A&ring=F7167A&fire=F7167A" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheikhwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7167A&icon_color=F7167A&text_color=FFFFFF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=sheikhwasimuddin&theme=tokyonight&hide_border=true&ring=F7167A&fire=F7167A&currStreakLabel=F7167A" />
 
+---
 
-### 🌐 Activity Graph (Area Chart)
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhwasimuddin&theme=tokyo-night&hide_border=true&area=true&area_color=F7167A&color=F7167A&line=F7167A&point=ffffff" />
+## 📈 Contribution Activity Graph
 
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhwasimuddin&theme=tokyo-night&hide_border=true&area=true&area_color=F7167A&color=F7167A&line=F7167A&point=FFFFFF" />
 
-### 🧮 Profile Summary Card
+---
+
+## 💻 Language Usage & Productivity
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhwasimuddin&layout=compact&theme=tokyonight&hide_border=true&title_color=F7167A&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheikhwasimuddin&theme=tokyonight&utcOffset=5.5" />
+
+---
+
+## 🏆 GitHub Achievements
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=sheikhwasimuddin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+
+---
+
+## 🧾 Contribution Summary
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhwasimuddin&theme=tokyonight" />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheikhwasimuddin&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheikhwasimuddin&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheikhwasimuddin&theme=tokyonight&utcOffset=+5.5" />
+---
 
-### 📦 Commit Stats (Last Year)
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheikhwasimuddin&theme=tokyonight" />
+## 👀 Profile Views
 
+<img src="https://komarev.com/ghpvc/?username=sheikhwasimuddin&label=Profile%20Views&color=F7167A&style=for-the-badge" alt="profile views" />
 
 </div>
