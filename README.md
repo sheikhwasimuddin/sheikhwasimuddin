@@ -82,9 +82,7 @@
 ### 🧮 Profile Summary Card
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhwasimuddin&theme=tokyonight" />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheikhwasimuddin&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheikhwasimuddin&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheikhwasimuddin&theme=tokyonight&utcOffset=+5.5" />
 
 ### 📦 Commit Stats (Last Year)
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheikhwasimuddin&theme=tokyonight" />
