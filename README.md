@@ -9,6 +9,13 @@
   🎓 Pursuing B.Tech in Computer Science Engineering (IoT).<br>
   🔭 Passionate about Web Development and problem-solving.
 </p>
+<h2 align="left">💼 Internship Experience</h2>
+<p align="left">
+  🏛️ <b>Intern – Maulana Azad National Institute of Technology (MANIT), Bhopal</b><br>
+  📌 Successfully completed an internship focused on practical learning, technical skill development, and project-based exposure.<br>
+  💻 Strengthened knowledge in software development, problem-solving, and implementation of real-world concepts.<br>
+  🤝 Gained valuable experience in teamwork, innovation, and professional work culture.
+</p>
 
 <h2 align="left">♠ Skills & Technologies 🛠️</h2>
 <h3 align="left">♠ Programming Languages :</h3>
