@@ -9,7 +9,7 @@
   🎓 Pursuing B.Tech in Computer Science Engineering (IoT).<br>
   🔭 Passionate about Web Development and problem-solving.
 </p>
-### <h2 align="left">💼 Internship Experience</h2>
+<h2 align="left">💼 Internship Experience</h2>
 <p align="left">
   🏛️ <b>Summer Research Intern – Maulana Azad National Institute of Technology (MANIT), Bhopal</b><br>
   📌 Successfully completed an internship focused on practical learning, technical skill development, and project-based exposure.<br>
@@ -60,8 +60,7 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" height="40" alt="ThingSpeak" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="Cisco Packet Tracer" />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
   <img width="12" />
